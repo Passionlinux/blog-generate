@@ -43,4 +43,6 @@ En cas d’une fuite d’information avérée (piratage,..), j'alerterais et je 
 
 ## Code source du blog
 
-Pour le moment, seul le code source de l'ancienne version sous Hugo est disponible sur [Github](https://github.com/Passionlinux/blog-generate), faute à pas le temps, mais prochainement le code source du blog actuel sera mis à disposition.
+~~Pour le moment, seul le code source de l'ancienne version sous Hugo est disponible sur [Github](https://github.com/Passionlinux/blog-generate), faute à pas le temps, mais prochainement le code source du blog actuel sera mis à disposition.~~
+
+Le code source du site est disponible sur [Github](https://github.com/Passionlinux/blog-generate), c'est une chose assez rare pour être signalé.
